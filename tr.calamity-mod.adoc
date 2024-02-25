@@ -1,0 +1,69 @@
+= Calamity Mod Memes
+Lacewing <lacy.lacewing@gmail.com>
+v0.1.0, {docdate}: Best Calamity Mod Add-on
+:!version-label:
+:description: A collection of Terraria's Calamity Mod memes, written in AsciiDoc.
+:keywords: meme, terraria, calamity
+:toc:
+
+// 图片和其他素材放这个路径里
+:imagesdir: ./assets
+:iconsdir: ./assets
+// CSS 放这个路径里
+:stylesdir: ./styles
+// 启用章节标题锚点
+:sectlinks:
+:sectanchors:
+// 移除末尾的“最后修改日期”和版本号
+:!last-update-label:
+// 移除表格标题
+:!table-caption:
+
+// 段内换行需要在行末加上一个空格和一个加号，如
+// some text +
+
+// 添加图片，可以是 GIF 和 SVG
+// 添加视频和音频时将“image”分别改为“video”和“audio”
+// 添加标志用“icon”
+// image::图片文件名.图片文件后缀["图片简述", 长, 宽]
+// image::https://url.to.the.image["图片简述", 长, 宽]
+// 如
+// image::pic.gif[Tux,250,350]
+// 如果是行内图片，使用“image:”而非“image::”；在“宽”后加上“role="related left/right"”控制浮动位置，如
+// some text here +
+// some text there image:https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg[Tux, 30, 50, role="related left"] more text here +
+// another line of text +
+// yet another line of text
+
+== 灾厄附属
+
+[cols="^.^1h, 3*^.^a"]
+|===
+// 表格标题
+4+| 谁才是最优质的灾厄附属？
+
+h| 相关性 → +
+质量 ↓
+h| 将灾厄作为前置
+h| 与灾厄有关
+h| 啥是灾厄？
+
+| 明显改善游戏体验
+| <replaceme>
+| <replaceme>
+| <replaceme>
+
+| 不很好，也不坏
+| <replaceme>
+| <replaceme>
+| <replaceme>
+
+| <<poop,💩>>
+| <replaceme>
+| <replaceme>
+| <replaceme>
+|===
+
+[bibliography%untitled]
+
+* [[[poop,💩]]] Wikipedia contributors. (2023, December 20). Poop emoji. In _Wikipedia, The Free Encyclopedia_. Retrieved 14:37, February 24, 2024, from <https://en.wikipedia.org/w/index.php?title=Poop_emoji&oldid=1190992223>
