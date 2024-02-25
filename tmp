@@ -1,0 +1,72 @@
+= Lacewing's Collection of Memes
+Lacewing <lacy.lacewing@gmail.com>
+0.1.0, {docdate}: The Arrival of README
+include::src/header.adoc[tags=common]
+include::src/license.adoc[tags=attrs]
+include::src/github.adoc[tags=attrs]
+:description: README for Lacewing's collection of memes.
+:keywords: meme
+
+[abstract]
+== Introduction
+Lacewing's Collection of Memes contains memes created and/or collected by Lacewing and possibly others. Besides obvious functionalities, it can be a playground for practicing document writing and/or typsetting skills.
+
+== Usage
+
+_Meme the memes!_ +
+And if their formats don't fit your needs, convert them. HTML can be converted to pretty much anything (not really, but to a variety of formats).
+
+link:content[*TAKE ME TO THE MEMES*]
+
+== Contributing
+
+=== Pull Requests
+
+include::src/github.adoc[tags=fork-pr-en]
+
+=== Guidelines
+
+==== Content
+
+* upon editing (excluding simple typo correction and such), please add your name and optionally, email address to the "author line" or such data
+* by not adding your author information, you choose not to be credited for the work
+* *reuse (refer)* content and sources when possible
+
+==== Format
+
+* use markup languages which can be *easily converted to `HTML`*; +
+	`AsciiDoc` (`.adoc`) is encouraged
+* format text reasonably, make it *easy to read and edit*
+* check spelling and grammar, also punctuation and typesetting
+
+==== File Management
+
+* use *flat* folder structure, meaning no creating lower-level folder; *`.` indicates 'folder'*, +
+	e.g. `general.punchline.adoc` for `general/punchline.adoc`
+* use lowercase, with *`-` replacing white spaces*, +
+	e.g. `calamity-mod` for "Calamity Mod"
+* follow special naming rules, +
+	e.g. `README.adoc` and `LICENSE`
+* viewable content in `content/`, name after *full names*
+* sources and *reusable parts* in `src/`, name after *abbreviations*
+* images, *excluding icons*, in `images/`, name after *abbreviations*
+* *icon images* in `images/icons/`, name after *full names*
+* audios in `audios/`, video in `videos/`, both name after *abbreviations*
+* styles (`CSS`, etc.) in `styles/`, name after *full names*
+
+==== Frequency
+
+* small typo PRs are unlikely to be merged
+* combine updates into 1 or a few PRs if you have a bunch of them
+
+== Licensing
+include::src/license.adoc[tags=note-en]
+
+.{link-cc-by-deed}[{cc-by-name} Deed]
+****
+include::src/license.adoc[tags=deed-en]
+****
+
+Refer to the link:LICENSE[license] for more details.
+
+[bibliography%untitled]
