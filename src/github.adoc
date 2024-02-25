@@ -1,0 +1,14 @@
+tag::attrs[]
+:link-fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+:link-pr-fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+end::attrs[]
+
+tag::fork-pr-en[]
+____
+You can create a pull request to propose changes you've made to a fork of an upstream repository.
+____
+
+1. {link-fork}[fork] the target repository
+2. make changes on your fork
+3. {link-pr-fork}[create a pull request from the fork]
+end::fork-pr-en[]

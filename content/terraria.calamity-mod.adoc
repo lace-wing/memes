@@ -1,0 +1,39 @@
+= Calamity Mod Memes
+Lacewing <lacy.lacewing@gmail.com>
+v0.1.0, {docdate}: Best Calamity Mod Add-on
+include::../src/header.adoc[tags=common;zh-hans]
+:description: A collection of Terraria's Calamity Mod memes
+:keywords: meme, terraria, calamity
+
+== 灾厄附属
+
+[cols="^.^1h, 3*^.^a"]
+|===
+// 表格标题
+4+| 谁才是最优质的灾厄附属？
+
+h| 相关性 → +
+质量 ↓
+h| 将灾厄作为前置
+h| 与灾厄有关
+h| 啥是灾厄？
+
+| 明显改善游戏体验
+| <replaceme>
+| <replaceme>
+| <replaceme>
+
+| 不很好，也不坏
+| <replaceme>
+| <replaceme>
+| <replaceme>
+
+| <<poop,💩>>
+| <replaceme>
+| <replaceme>
+| <replaceme>
+|===
+
+[bibliography%untitled]
+
+* [[[poop,💩]]] Wikipedia contributors. (2023, December 20). Poop emoji. In _Wikipedia, The Free Encyclopedia_. Retrieved 14:37, February 24, 2024, from <https://en.wikipedia.org/w/index.php?title=Poop_emoji&oldid=1190992223>
