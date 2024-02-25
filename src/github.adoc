@@ -1,6 +1,8 @@
 tag::attrs[]
 :link-fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
 :link-pr-fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+:link-clone: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+:link-zip: https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives
 end::attrs[]
 
 tag::fork-pr-en[]
@@ -12,3 +14,13 @@ ____
 2. make changes on your fork
 3. {link-pr-fork}[create a pull request from the fork]
 end::fork-pr-en[]
+
+tag::get-repo-en[]
+____
+You can download a repository to your machine.
+____
+
+To utilize Git features, you may {link-clone}[clone a repository].
+
+If you just want s snapshot of a repostory, you can {link-zip}[download an archive of a repository].
+end::get-repo-en[]
