@@ -3,9 +3,12 @@ Lacewing <lacy.lacewing@gmail.com>
 0.1.1, {docdate}: An Actually Readable README
 include::src/header.adoc[tags=common]
 include::src/license.adoc[tags=attrs]
-include::src/github.adoc[tags=attrs]
 :description: README for Lacewing's collection of memes.
 :keywords: meme
+:link-fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+:link-pr-fork: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork
+:link-clone: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+:link-zip: https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives
 
 [abstract]
 == Introduction
@@ -17,8 +20,13 @@ You'll have to download the files and preview/convert them, because GitHub's Asc
 *`asciidoctor`* is the `AsciiDoc` processoer for this project.
 
 === Get Files
+____
+You can download a repository to your machine.
+____
 
-include::src/github.adoc[tags=get-repo-en]
+To utilize Git features, you may {link-clone}[clone a repository].
+
+If you just want s snapshot of a repostory, you can {link-zip}[download an archive of a repository].
 
 === Styling
 `HTML` supports customization, so does `AsciiDoc` since it converts to `HTML`. Feel free to apply your own style sheets and even scripts.
@@ -41,8 +49,13 @@ _Meme the memes!_
 == Contributing
 
 === Pull Requests
+____
+You can create a pull request to propose changes you've made to a fork of an upstream repository.
+____
 
-include::src/github.adoc[tags=fork-pr-en]
+1. {link-fork}[fork] the target repository
+2. make changes on your fork
+3. {link-pr-fork}[create a pull request from the fork]
 
 === Guidelines
 
