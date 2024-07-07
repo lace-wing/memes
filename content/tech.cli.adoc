@@ -1,0 +1,85 @@
+= CLI & TUI Memes
+Lacewing
+v0.1.0, {docdate}: Bingo!
+include::../src/header.adoc[tags=common]
+:description: A collection of CLI & TUI memes.
+:keywords: meme, cli, tui, technology
+
+== CLI Bingo
+
+[cols="5*^.^a"]
+|===
+5+|CLI Nerd Bingo
+
+|
+|
+|
+|
+|
+
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+
+|
+|
+|
+|
+|
+|===
+
+.Examples
+[%collapsible%open]
+====
+
+[cols="5*^.^a"]
+|===
+5+|CLI Nerd Bingo
+
+|package manager(s) from CLI
+|`git`
+|`neofetch` or such
+|`top`/`htop`
+|`w3m`
+
+|`yazi`
+|`newsboat`
+|`nano`/`pico`
+|image protocol(s)
+|`tig`
+
+|`zsh`/`fish`
+|`vi`
+|`vim`/`nvim`
+|`tmux`
+|Vimium or such in browser
+
+|`kill`
+|`hx`
+|pwsh/`nu`
+|shell script(s)
+|`csh`
+
+|`cat`
+|`sed`
+|`emacs` in CLI mode
+|no desktop environment
+|`bash`
+|===
+====
+
