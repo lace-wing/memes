@@ -3,7 +3,7 @@ tag::common[]
 :iconsdir: ../images/icons
 :imagesdir: ../images
 :stylesdir: ../styles
-:srcdir: ../src
+:libdir: ../lib
 :sectanchors:
 :toc:
 :!last-update-label:

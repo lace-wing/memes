@@ -1,0 +1,67 @@
+= Galaxy Brains
+Lacewing
+v0.1.0, {docdate}: Brain
+include::../lib/header.adoc[tags=common]
+:description: A collection of galaxy brain memes.
+:keywords: meme, galaxy brain
+:stem:
+:imagesdir: {imagesdir}/galaxy-brains
+
+++++
+<style>
+td, th {
+    font-size: 1.5em;
+}
+
+td .MathJax, th .MathJax,
+td .katex, th .katex {
+    font-size: 1.5em;
+}
+</style>
+++++
+
+
+== Galaxy Brain Table
+
+[cols="2*^.^a"]
+|===
+|
+| image::m-stage-1.png[]
+
+|
+| image::m-stage-2.png[]
+
+|
+| image::m-stage-3.png[]
+
+|
+| image::m-stage-4.png[]
+
+|
+| image::m-stage-5.png[]
+
+|===
+
+.Examples
+[%collapsible%open]
+====
+[cols="2*^.^a"]
+|===
+| stem:[A]
+| image::m-stage-1.png[]
+
+| stem:[A times B]
+| image::m-stage-2.png[]
+
+| stem:[A^k]
+| image::m-stage-3.png[]
+
+| stem:[A^-1]
+| image::m-stage-4.png[]
+
+| stem:[e^A]
+| image::m-stage-5.png[]
+
+|===
+====
+
